@@ -10,24 +10,26 @@ h1{
     color: #ddd;
     margin-bottom: 1%;
     text-align: center;
+    font-size: 2vh;
 }
 h2{
     color: #ddd;
     margin: 1%;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 24px;
+    font-size: 2.3vh;
 }
 li{
     color: #ddd;
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: 2.3vh;
 }
 
 .text{
     margin: auto;
-    width: 75%;
+    width: 85%;
+    font-size: small;
 }
 
 body{
@@ -93,16 +95,14 @@ input[name="r"]{
 .artemis{
     margin: 0 ;
     width: auto;
-    max-width: 50%;
     height:auto;
-    max-height: 70%;
+    max-height: 30vw;
 }
 .img{
-    margin: 0 ;
+    margin: 0;
     width: auto;
-    max-width: 35%;
     height:auto;
-    max-height: 50%;
+    max-height: 20vw;
 }
 
 #r1:checked ~ .s1{
