@@ -3,6 +3,29 @@
     padding: 0;
 }
 
+@media (min-width: 786px) {
+    h1{
+        font-size: 2vh;
+    }
+    h2{
+        font-size: 2.3vh;
+    }
+    li{
+        font-size: 2.3vh;
+    }
+}
+@media (max-width: 785px) {
+    h1{
+        font-size: 2vw;
+    }
+    h2{
+        font-size: 2.3vw;
+    }
+    li{
+        font-size: 2.3vw;
+    }
+}
+
 p{
     text-align: center;
 }
@@ -10,20 +33,17 @@ h1{
     color: #ddd;
     margin-bottom: 1%;
     text-align: center;
-    font-size: 2vh;
 }
 h2{
     color: #ddd;
     margin: 1%;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 2.3vh;
 }
 li{
     color: #ddd;
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 2.3vh;
 }
 
 .text{
