@@ -70,8 +70,8 @@ body{
 }
 
 .slider{
-    width: 80vw;
-    height:85vh;
+    width: 80%;
+    height:85%;
     overflow: hidden;
     background-color: rgb(25, 25, 25);
     padding: 20px;
@@ -84,7 +84,7 @@ body{
     left: 10%;
     right: 10%;
     top: 5%;
-    bottom: 5%;
+    bottom: auto;
 }
 
 .navigation{
