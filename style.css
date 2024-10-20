@@ -22,13 +22,13 @@
 }
 @media (max-width: 785px) {
     h1{
-        font-size: 2vw;
+        font-size: 3vw;
     }
     h2{
-        font-size: 3vw;
+        font-size: 3.4vw;
     }
     li{
-        font-size: 3vw;
+        font-size: 3.4vw;
     }
     .img{
         max-height: 20vh;
@@ -81,8 +81,10 @@ body{
 
 .middle{
     position:absolute;
-    left: 10%;
-    top: 10%;
+    left: 10vw;
+    right: 10vw;
+    top: 10vh;
+    bottom: 10vh;
 }
 
 .navigation{
