@@ -81,8 +81,10 @@ body{
 
 .middle{
     position:absolute;
-    left: 10%;
-    top: 10%;
+    left: 10vw;
+    right: 10vw;
+    top: 10vh;
+    bottom: 10vh;
 }
 
 .navigation{
