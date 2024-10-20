@@ -89,7 +89,7 @@ body{
 
 .navigation{
     position: absolute;
-    bottom: 16px;
+    bottom: 6px;
     left:50%;
     transform:translateX(-50%);
     display:flex;
